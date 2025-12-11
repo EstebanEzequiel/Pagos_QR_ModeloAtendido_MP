@@ -1,4 +1,4 @@
-Integración de Pagos QR - Mariano Max
+Integración de Pagos QR
 
 Rol: Desarrollador Backend (Pasantía en DLR Software).
 
